@@ -1,0 +1,7 @@
+{
+  "name": "YiCityPinyin",
+  "version": "0.0.1",
+  "dependencies": {
+    "pinyin": "^2.6.0"
+  }
+}
